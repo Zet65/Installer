@@ -29,9 +29,9 @@ yes
 no
 no
 $ram
-$ram
+0
 $disk_space
-$disk_space
+0
 100
 8080
 2022
