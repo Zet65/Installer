@@ -5,4 +5,4 @@ BUTUH LICENSE/PW CHAT TELE GUA
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/Rafaxamalia/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Zet65/Installer/refs/heads/main/install.sh)
